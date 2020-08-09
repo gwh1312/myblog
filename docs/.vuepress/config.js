@@ -1,5 +1,5 @@
 module.exports = {
-    title:"汤姆的博客",
+    title:"白日梦想家",
     head:[
         ["link",{rel:"icon",href:"/hali.jpg"}],
     ],
